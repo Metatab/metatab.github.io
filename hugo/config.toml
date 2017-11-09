@@ -1,4 +1,4 @@
-baseURL = "web.metatab.org"
+baseURL = "http://web.metatab.org"
 languageCode = "en-us"
 title = "Foobottom"
 theme = "hugo-universal-theme"
