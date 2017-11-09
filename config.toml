@@ -1,5 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Yeah Foobar"
-theme = "ananke"
-publishDir = "docs"
