@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Foobottom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
     
 	<atom:link href="web.metatab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>T1</title>
+      <link>web.metatab.org/tags/t1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>web.metatab.org/tags/t1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T2</title>
+      <link>web.metatab.org/tags/t2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>web.metatab.org/tags/t2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T3</title>
+      <link>web.metatab.org/tags/t3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>web.metatab.org/tags/t3/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

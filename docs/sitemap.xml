@@ -3,8 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>web.metatab.org/blog/1/01/01/foobottom/</loc>
+  </url>
+  
+  <url>
     <loc>web.metatab.org/posts/my-first-post/</loc>
     <lastmod>2017-11-08T19:54:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/categories/c1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/categories/c2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/categories/c3/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -21,6 +45,21 @@
   <url>
     <loc>web.metatab.org/posts/</loc>
     <lastmod>2017-11-08T19:54:46-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/tags/t1/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/tags/t2/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/tags/t3/</loc>
     <priority>0</priority>
   </url>
   
