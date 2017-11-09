@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.1.41:5000/categories/</loc>
+    <loc>web.metatab.org/posts/my-first-post/</loc>
+    <lastmod>2017-11-08T19:54:46-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.1.41:5000/</loc>
+    <loc>web.metatab.org/</loc>
+    <lastmod>2017-11-08T19:54:46-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://192.168.1.41:5000/tags/</loc>
+    <loc>web.metatab.org/posts/</loc>
+    <lastmod>2017-11-08T19:54:46-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>web.metatab.org/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Foobottom</title>
-    <link>http://192.168.1.41:5000/</link>
+    <link>web.metatab.org/</link>
     <description>Recent content on Foobottom</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 08 Nov 2017 19:54:46 -0800</lastBuildDate>
     
-	<atom:link href="http://192.168.1.41:5000/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="web.metatab.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>web.metatab.org/posts/my-first-post/</link>
+      <pubDate>Wed, 08 Nov 2017 19:54:46 -0800</pubDate>
+      
+      <guid>web.metatab.org/posts/my-first-post/</guid>
+      <description>Well, this is the first post.</description>
+    </item>
     
   </channel>
 </rss>
